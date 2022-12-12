@@ -16,7 +16,7 @@
     "cache-loader": "^4.1.0",
     "connect-mongodb-session": "^2.3.1",
     "core-js": "^3.6.4",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-jwt": "^5.3.3",
     "express-session": "^1.17.1",
     "http-proxy-middleware": "^1.0.3",
